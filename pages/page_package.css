@@ -1,0 +1,250 @@
+.page-package .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.page-package .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.page-package .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.page-package .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.page-package .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.page-package .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.page-package .iphone-status-barupper {
+  margin: 0 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.page-package .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 25.5px;
+  width: 430px;
+  height: 0px;
+}
+.page-package .package {
+  margin: 4px 15px 0 0;
+  display: inline-block;
+  width: 87px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.page-package .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page-package .group-132 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.page-package .container {
+  margin: 0 37px 21px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 62px);
+  box-sizing: border-box;
+}
+.page-package .vector-12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 111.5px;
+  height: 152px;
+}
+.page-package .vector-11 {
+  background: url('../assets/images/rectangle_61.png') 50% / cover no-repeat;
+  width: 123px;
+  height: 152px;
+}
+.page-package .vector-10 {
+  width: 88px;
+  height: 152px;
+}
+.page-package .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 211px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-package .rectangle-86 {
+  border-radius: 15px;
+  position: absolute;
+  left: 0.5px;
+  top: 0.5px;
+  width: 118px;
+  height: 34px;
+}
+.page-package .beach-bundle {
+  position: absolute;
+  left: 11.5px;
+  top: 9.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.page-package .package-1 {
+  position: relative;
+  margin: 0 5.5px 51.5px 0;
+  display: flex;
+  padding-top: 0.5px;
+  width: 322.5px;
+  box-sizing: border-box;
+}
+.page-package .vector-15 {
+  position: absolute;
+  left: 0.5px;
+  top: 0.5px;
+  width: 111.5px;
+  height: 152px;
+}
+.page-package .vector-14 {
+  background: url('../assets/images/rectangle_65.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 88px;
+  bottom: 0px;
+  width: 123px;
+  height: 152px;
+}
+.page-package .cave-bundle {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.page-package .container-1 {
+  border-radius: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: rgba(217, 217, 217, 0.6);
+  position: relative;
+  display: flex;
+  padding: 9px 10.4px 4px 19px;
+  box-sizing: border-box;
+}
+.page-package .package-2 {
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_52.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 9px 51px 0;
+  padding: 1px 1px 118px 1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-package .vector-18 {
+  position: absolute;
+  left: 0.5px;
+  top: 0.5px;
+  width: 111.5px;
+  height: 152px;
+}
+.page-package .vector-17 {
+  background: url('../assets/images/rectangle_68.png') 50% / cover no-repeat;
+  width: 123px;
+  height: 152px;
+}
+.page-package .vector-16 {
+  width: 88px;
+  height: 152px;
+}
+.page-package .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 211px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-package .rectangle-881 {
+  border-radius: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: rgba(217, 217, 217, 0.6);
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 118px;
+  height: 34px;
+}
+.page-package .mountain-bundle {
+  position: absolute;
+  left: 4px;
+  top: 10px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.page-package .package-3 {
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_51.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 221px 0;
+  display: flex;
+  padding-top: 1px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.page-package .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.page-package .bar-bawah {
+  margin-left: 1px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.page-package {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 25px 0;
+  box-sizing: border-box;
+}

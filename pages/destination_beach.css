@@ -1,0 +1,274 @@
+.destination-beach .rectangle-62 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_62.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 51px;
+  bottom: 269px;
+  width: 323px;
+  height: 152px;
+}
+.destination-beach .rectangle-63 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_63.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 82px;
+  translate: -50% 0;
+  width: 323px;
+  height: 152px;
+}
+.destination-beach .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.destination-beach .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.destination-beach .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.destination-beach .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.destination-beach .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.destination-beach .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.destination-beach .iphone-status-barupper {
+  margin: 0 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 48px);
+  box-sizing: border-box;
+}
+.destination-beach .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 43.5px;
+  width: 430px;
+  height: 0px;
+}
+.destination-beach .forward {
+  background: url('../assets/images/forward.png') 50% / contain no-repeat;
+  margin: 0 21px 2px 0;
+  width: 27px;
+  height: 27px;
+}
+.destination-beach .beach {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-beach .container {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.destination-beach .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.destination-beach .group-130 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  padding: 6px 7.8px 5px 7px;
+  box-sizing: border-box;
+}
+.destination-beach .container-5 {
+  margin: 0 39px 18px 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.destination-beach .rectangle-73 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-beach .pantai-parangtritis {
+  position: relative;
+  margin-right: 12px;
+  width: 147px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-beach .next-page {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin: 1px 0 3px 0;
+  width: 20px;
+  height: 20px;
+}
+.destination-beach .container-6 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_51.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 3px 35px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 15px 5px 17px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-beach .rectangle-76 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-beach .pantai-sadranan {
+  position: relative;
+  margin-right: 12px;
+  width: 135px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-beach .next-page-1 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-beach .container-2 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_61.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 149px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 15px 5px 17px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-beach .pantai-krakal {
+  margin-right: 12px;
+  width: 105px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-beach .next-page-2 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-beach .container-4 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: relative;
+  margin: 0 7px 149px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 14px 5px 18px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-beach .pantai-baron {
+  margin-right: 12px;
+  width: 103px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-beach .next-page-3 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-beach .container-1 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: relative;
+  margin: 0 5px 51px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 14px 5px 18px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-beach .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.destination-beach .bar-bawah {
+  margin-right: 1px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.destination-beach .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.destination-beach {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 15px 0 25px 0;
+  box-sizing: border-box;
+}

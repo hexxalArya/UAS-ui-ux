@@ -1,0 +1,273 @@
+.mountain .rectangle-67 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_67.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 324px;
+  translate: -50% 0;
+  width: 323px;
+  height: 152px;
+}
+.mountain .rectangle-68 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_68.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 51px;
+  bottom: 269px;
+  width: 323px;
+  height: 152px;
+}
+.mountain .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.mountain .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.mountain .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.mountain .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.mountain .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.mountain .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.mountain .iphone-status-barupper {
+  margin: 0 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 48px);
+  box-sizing: border-box;
+}
+.mountain .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 46.5px;
+  width: 430px;
+  height: 0px;
+}
+.mountain .forward {
+  background: url('../assets/images/forward.png') 50% / contain no-repeat;
+  margin-right: 16px;
+  width: 27px;
+  height: 27px;
+}
+.mountain .mountains {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.mountain .container-2 {
+  margin: 5px 0 2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.mountain .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.mountain .group-132 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.mountain .container-3 {
+  margin: 0 39px 18px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 49px);
+  box-sizing: border-box;
+}
+.mountain .rectangle-75 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.mountain .bunker-kaliadem {
+  position: relative;
+  margin-right: 12px;
+  width: 135px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.mountain .next-page {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin: 1px 0 3px 0;
+  width: 20px;
+  height: 20px;
+}
+.mountain .container-4 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_53.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 3px 149px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 17px 5px 20px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.mountain .bukit-klangon {
+  margin-right: 12px;
+  width: 109px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.mountain .next-page-1 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.mountain .container-5 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: relative;
+  margin: 0 3px 149px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 16px 5px 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.mountain .bukit-plawangan {
+  margin-right: 12px;
+  width: 133px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.mountain .next-page-2 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.mountain .container-6 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: relative;
+  margin: 0 7px 35px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 16px 5px 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.mountain .rectangle-84 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.mountain .bukit-bintang {
+  position: relative;
+  margin-right: 12px;
+  width: 104px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.mountain .next-page-3 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.mountain .container-1 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_69.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 51px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 17px 5px 20px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.mountain .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.mountain .bar-bawah {
+  margin-left: 1px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.mountain .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mountain {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 15px 0 25px 0;
+  box-sizing: border-box;
+}

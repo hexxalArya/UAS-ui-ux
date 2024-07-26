@@ -1,0 +1,271 @@
+.destination-cave .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.destination-cave .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.destination-cave .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.destination-cave .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.destination-cave .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.destination-cave .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.destination-cave .iphone-status-barupper {
+  margin: 0 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.destination-cave .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 46.5px;
+  width: 430px;
+  height: 0px;
+}
+.destination-cave .forward {
+  background: url('../assets/images/forward.png') 50% / contain no-repeat;
+  margin: 0 16px 1px 0;
+  width: 27px;
+  height: 27px;
+}
+.destination-cave .cave {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-cave .container-3 {
+  margin: 4px 0 2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.destination-cave .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.destination-cave .group-131 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.destination-cave .container-4 {
+  margin: 0 38px 18px 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 45px);
+  box-sizing: border-box;
+}
+.destination-cave .rectangle-74 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-cave .goa-selarong {
+  position: relative;
+  margin-right: 12px;
+  width: 110px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-cave .next-page {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin: 1px 0 3px 0;
+  width: 20px;
+  height: 20px;
+}
+.destination-cave .container-5 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_52.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 34px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 16px 5px 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-cave .rectangle-79 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-cave .goa-kalisuci {
+  position: relative;
+  margin-right: 12px;
+  width: 99px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-cave .next-page-1 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-cave .container-1 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_64.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 34px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 16px 5px 23px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-cave .rectangle-80 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-cave .goa-pindul {
+  position: relative;
+  margin-right: 12px;
+  width: 87px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-cave .next-page-2 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-cave .container-2 {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_65.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 37px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 16px 5px 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-cave .rectangle-81 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  top: 114px;
+  translate: -50% 0;
+  width: 323px;
+  height: 38px;
+}
+.destination-cave .goa-jomblang {
+  position: relative;
+  margin-right: 12px;
+  width: 120px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.destination-cave .next-page-3 {
+  background: url('../assets/images/next_page.png') 50% / contain no-repeat;
+  position: relative;
+  margin-bottom: 4px;
+  width: 20px;
+  height: 20px;
+}
+.destination-cave .container {
+  border-radius: 15px;
+  background: url('../assets/images/rectangle_66.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 5px 51px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 123px 16px 5px 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.destination-cave .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.destination-cave .bar-bawah {
+  margin-left: 1px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.destination-cave {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 25px 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,262 @@
+.page-sponsorship .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.page-sponsorship .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.page-sponsorship .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.page-sponsorship .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.page-sponsorship .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.page-sponsorship .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.page-sponsorship .iphone-status-barupper {
+  margin: 0 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.page-sponsorship .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 25.5px;
+  width: 430px;
+  height: 0px;
+}
+.page-sponsorship .sponsorship {
+  margin: 4px 15px 0 0;
+  display: inline-block;
+  width: 124px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.page-sponsorship .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page-sponsorship .group-132 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.page-sponsorship .container-2 {
+  margin: 0 37px 89px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 62px);
+  box-sizing: border-box;
+}
+.page-sponsorship .pngegg-52 {
+  background: url('../assets/images/pngegg_52.png') 50% / cover no-repeat;
+  width: 79px;
+  height: 103px;
+}
+.page-sponsorship .container-6 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 5px 51px 0;
+  display: flex;
+  padding: 8px 20px;
+  width: 119px;
+  height: 119px;
+  box-sizing: border-box;
+}
+.page-sponsorship .traveloka {
+  background: url('../assets/images/traveloka.png') 50% / cover no-repeat;
+  width: 99px;
+  height: 22px;
+}
+.page-sponsorship .container-1 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 5px 51px 0;
+  display: flex;
+  padding: 49px 10px 48px 10px;
+  width: 119px;
+  height: 119px;
+  box-sizing: border-box;
+}
+.page-sponsorship .logo-tiket-com {
+  background: url('../assets/images/logo_tiket_com.png') 50% / cover no-repeat;
+  width: 98px;
+  height: 27px;
+}
+.page-sponsorship .container-5 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 5px 170px 0;
+  display: flex;
+  padding: 51px 10px 41px 11px;
+  width: 119px;
+  height: 119px;
+  box-sizing: border-box;
+}
+.page-sponsorship .play {
+  background: url('../assets/images/play.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 39px;
+  top: 20px;
+  width: 41px;
+  height: 41px;
+}
+.page-sponsorship .note {
+  background: url('../assets/images/note.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 145px;
+  width: 41px;
+  height: 41px;
+}
+.page-sponsorship .purchase-order {
+  background: url('../assets/images/purchase_order.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 44px;
+  width: 41px;
+  height: 41px;
+}
+.page-sponsorship .intro {
+  position: relative;
+  margin: 34px 9px 0 0;
+  display: inline-block;
+  width: 28px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-sponsorship .home {
+  background: url('../assets/images/home.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 41px;
+  height: 41px;
+}
+.page-sponsorship .home-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-sponsorship .button-home {
+  position: relative;
+  display: flex;
+  padding: 34px 1.2px 0 4px;
+  box-sizing: border-box;
+}
+.page-sponsorship .note-1 {
+  position: relative;
+  margin-top: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-sponsorship .payment {
+  position: relative;
+  margin-top: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-sponsorship .container {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 349.7px;
+  box-sizing: border-box;
+}
+.page-sponsorship .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.page-sponsorship .bar-bawah {
+  margin-right: 10.7px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.page-sponsorship .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 349.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-sponsorship .container-3 {
+  box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.12);
+  background: #F1EEEE;
+  position: relative;
+  display: flex;
+  padding: 21px 34.3px 29px 34.3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page-sponsorship {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  box-sizing: border-box;
+}

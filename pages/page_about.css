@@ -1,0 +1,242 @@
+.page-about .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.page-about .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.page-about .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.page-about .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.page-about .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.page-about .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.page-about .iphone-status-barupper {
+  margin: 0 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 48px);
+  box-sizing: border-box;
+}
+.page-about .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 25.5px;
+  width: 430px;
+  height: 0px;
+}
+.page-about .about {
+  margin: 4px 15px 0 0;
+  display: inline-block;
+  width: 60px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.page-about .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page-about .group-132 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.page-about .container-2 {
+  margin: 0 38px 22px 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 64px);
+  box-sizing: border-box;
+}
+.page-about .ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about .container-5 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: #DEDEDE;
+  position: relative;
+  margin: 0 39px 51px 34px;
+  display: flex;
+  padding: 142px 19.3px 0 18px;
+  height: 645px;
+  box-sizing: border-box;
+}
+.page-about .play {
+  background: url('../assets/images/play.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 39px;
+  top: 20px;
+  width: 41px;
+  height: 41px;
+}
+.page-about .note {
+  background: url('../assets/images/note.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 145px;
+  width: 41px;
+  height: 41px;
+}
+.page-about .purchase-order {
+  background: url('../assets/images/purchase_order.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 44px;
+  width: 41px;
+  height: 41px;
+}
+.page-about .intro {
+  position: relative;
+  margin: 34px 9px 0 0;
+  display: inline-block;
+  width: 28px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about .home {
+  background: url('../assets/images/home.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 41px;
+  height: 41px;
+}
+.page-about .home-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about .button-home {
+  position: relative;
+  display: flex;
+  padding: 34px 1.2px 0 4px;
+  box-sizing: border-box;
+}
+.page-about .note-1 {
+  position: relative;
+  margin-top: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about .payment {
+  position: relative;
+  margin-top: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about .container-3 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 349.7px;
+  box-sizing: border-box;
+}
+.page-about .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.page-about .bar-bawah {
+  margin-right: 10.7px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.page-about .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 349.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-about .container {
+  box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.12);
+  background: #F1EEEE;
+  position: relative;
+  display: flex;
+  padding: 21px 34.3px 29px 34.3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page-about .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page-about .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  position: absolute;
+  top: 153px;
+  right: 37.6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.page-about {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 15px;
+  box-sizing: border-box;
+}

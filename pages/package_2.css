@@ -1,0 +1,466 @@
+.package-2 .container-2 {
+  width: 28.4px;
+  height: 11.1px;
+}
+.package-2 .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.package-2 .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.package-2 .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.package-2 .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.package-2 .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.package-2 .iphone-status-barupper {
+  margin: 0 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.package-2 .line-pembatas-1 {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  background: rgba(233, 221, 221, 0.4);
+  margin-bottom: 25.5px;
+  width: 430px;
+  height: 0px;
+}
+.package-2 .package {
+  margin: 4px 15px 0 0;
+  display: inline-block;
+  width: 87px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.package-2 .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.package-2 .group-132 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: relative;
+  display: flex;
+  padding: 6px 6.8px 5px 8px;
+  box-sizing: border-box;
+}
+.package-2 .container-6 {
+  margin: 0 37px 21px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 62px);
+  box-sizing: border-box;
+}
+.package-2 .vector-15 {
+  position: absolute;
+  left: 0.5px;
+  top: 0.5px;
+  width: 111.5px;
+  height: 152px;
+}
+.package-2 .vector-14 {
+  background: url('../assets/images/rectangle_65.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 88px;
+  bottom: 0px;
+  width: 123px;
+  height: 152px;
+}
+.package-2 .cave-bundle {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.package-2 .container-2 {
+  border-radius: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: rgba(217, 217, 217, 0.6);
+  position: relative;
+  display: flex;
+  padding: 9px 10.4px 4px 19px;
+  box-sizing: border-box;
+}
+.package-2 .package-5 {
+  border-radius: 15px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_52.jpeg') 50% / cover no-repeat;
+  position: relative;
+  padding: 1px 1px 118px 1px;
+  box-sizing: border-box;
+}
+.package-2 .vector-21 {
+  position: absolute;
+  left: 19px;
+  top: 231px;
+  width: 84px;
+  height: 10.5px;
+}
+.package-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .tourist-attraction {
+  margin: 0 4px 1px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .bunker-kaliadem-goa-pindul-goa-selarong {
+  margin: 0 7px 8px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .transportation-travel-car-round-trip {
+  margin: 0 7px 54px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .rp-500000-person {
+  margin-bottom: 87px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.package-2 .container {
+  position: relative;
+  margin: 3px 15px 1px 0;
+  display: inline-block;
+  width: 27px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.package-2 .add {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.package-2 .button {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #4BDE6B;
+  position: relative;
+  display: flex;
+  padding: 5px 10.6px 6px 10px;
+  box-sizing: border-box;
+}
+.package-2 .container {
+  margin: 0 13px 0 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 17px);
+  box-sizing: border-box;
+}
+.package-2 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.package-2 .rp-250000-person {
+  position: absolute;
+  left: 31px;
+  bottom: 117px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.package-2 .discount {
+  background: url('../assets/images/discount.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 43px;
+  bottom: 22px;
+  width: 40px;
+  height: 40px;
+}
+.package-2 .container-3 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 0 16px 23px 19px;
+  height: 391px;
+  box-sizing: border-box;
+}
+.package-2 .frame-cave-bundle {
+  position: relative;
+  margin: 0 6px 23px 0;
+  padding-right: 1px;
+  height: 509px;
+  box-sizing: border-box;
+}
+.package-2 .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.package-2 .bar-bawah {
+  position: absolute;
+  right: 88px;
+  bottom: 16px;
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.package-2 .vector-12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 111.5px;
+  height: 152px;
+}
+.package-2 .vector-11 {
+  background: url('../assets/images/rectangle_61.png') 50% / cover no-repeat;
+  width: 123px;
+  height: 152px;
+}
+.package-2 .vector-10 {
+  width: 88px;
+  height: 152px;
+}
+.package-2 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 211px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.package-2 .rectangle-931 {
+  border-radius: 15px;
+  position: absolute;
+  left: 0.5px;
+  top: 0.5px;
+  width: 118px;
+  height: 34px;
+}
+.package-2 .beach-bundle {
+  position: absolute;
+  left: 11.5px;
+  top: 9.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.package-2 .package-51 {
+  position: relative;
+  display: flex;
+  padding-top: 0.5px;
+  width: 322.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.package-2 .vector-211 {
+  position: absolute;
+  left: 17px;
+  top: 231px;
+  width: 84px;
+  height: 10.5px;
+}
+.package-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-1 {
+  margin: 0 0 4px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .tourist-attraction-1 {
+  margin: 0 3px 1px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .pantai-parangtritis-pantai-sadranan-pantai-krakal {
+  margin: 0 6px 5px 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .transportation-travel-car-round-trip-1 {
+  margin: 0 3px 57px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.package-2 .rp-800000-person {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.package-2 .rp-400000-person {
+  margin: 0 6px 57px 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.package-2 .container-1 {
+  position: relative;
+  margin: 3px 15px 1px 0;
+  display: inline-block;
+  width: 27px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.package-2 .add-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.package-2 .button-1 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #4BDE6B;
+  position: relative;
+  display: flex;
+  padding: 5px 10.6px 6px 10px;
+  box-sizing: border-box;
+}
+.package-2 .container-1 {
+  margin: 0 21px 0 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 27px);
+  box-sizing: border-box;
+}
+.package-2 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.package-2 .discount-1 {
+  background: url('../assets/images/discount.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 47px;
+  bottom: 22px;
+  width: 40px;
+  height: 40px;
+}
+.package-2 .container-8 {
+  border-radius: 15px;
+  background: rgba(217, 217, 217, 0.65);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 0 11px 23px 21px;
+  height: 391px;
+  box-sizing: border-box;
+}
+.package-2 .frame-beach-bundle {
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  padding-right: 0.5px;
+  width: 323px;
+  height: 508px;
+  box-sizing: border-box;
+}
+.package-2 {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  box-sizing: border-box;
+}

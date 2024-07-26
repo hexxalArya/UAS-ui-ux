@@ -1,0 +1,199 @@
+.transaction-3 .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.transaction-3 .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.transaction-3 .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.transaction-3 .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.transaction-3 .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.transaction-3 .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.transaction-3 .iphone-status-barupper {
+  margin: 0 23px 73px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 46px);
+  box-sizing: border-box;
+}
+.transaction-3 .logo-dana-koleksilogo {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background: url('../assets/images/logo_dana_koleksilogo.png') 50% / cover no-repeat;
+  margin: 0 29.9px 28px 0;
+  width: 263px;
+  height: 77px;
+}
+.transaction-3 .hai-userxxxx-11 {
+  margin: 0 231.9px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.transaction-3 .am-trip-give-you-payment-bill-forcave-bundle-lorem-ipsum-dolor-sit-amet {
+  margin-bottom: 112px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.transaction-3 .thankyou-for-your-purchase-am-trip {
+  margin-right: 132.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.transaction-3 .container-3 {
+  border-radius: 30px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 21px 259px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 12.1px 51px 34px;
+  width: calc(100% - 37px);
+  box-sizing: border-box;
+}
+.transaction-3 .rectangle-129 {
+  border-radius: 14px;
+  border: 2px solid #FFFFFF;
+  background: #FFFFFF;
+  margin: 0 1px 16px 0;
+  width: 62px;
+  height: 3px;
+}
+.transaction-3 .rectangle-131 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: url('../assets/images/rectangle_120.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 34px;
+  height: 33px;
+}
+.transaction-3 .dana {
+  margin: 7px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.transaction-3 .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.transaction-3 .forward {
+  background: url('../assets/images/forward.png') 50% / contain no-repeat;
+  margin: 7px 0 3px 0;
+  width: 23px;
+  height: 23px;
+}
+.transaction-3 .container {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #FEFEFE;
+  position: relative;
+  margin: 0 6px 17px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3px 17px 4px 3px;
+  width: 221px;
+  box-sizing: border-box;
+}
+.transaction-3 .pay {
+  margin-right: 12px;
+  width: 30px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.transaction-3 .rp-250000 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.transaction-3 .button-pay {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #6BCEE3;
+  position: relative;
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 0 13px 0;
+  width: 323px;
+  box-sizing: border-box;
+}
+.transaction-3 .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  width: 139px;
+  height: 5px;
+}
+.transaction-3 .bar-bawah {
+  display: flex;
+  width: 139px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.transaction-3 .container-2 {
+  border-radius: 30px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 0 25px 0;
+  width: 430px;
+  box-sizing: border-box;
+}
+.transaction-3 {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-top: 15px;
+  box-sizing: border-box;
+}

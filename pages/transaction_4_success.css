@@ -1,0 +1,123 @@
+.transaction-4-success .container {
+  width: 28.4px;
+  height: 11.1px;
+}
+.transaction-4-success .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.transaction-4-success .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.transaction-4-success .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.transaction-4-success .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.transaction-4-success .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.transaction-4-success .iphone-status-barupper {
+  margin-bottom: 191px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.transaction-4-success .rectangle {
+  border-radius: 10px;
+  background: #969696;
+  position: absolute;
+  left: 78px;
+  top: 680px;
+  width: 139px;
+  height: 5px;
+}
+.transaction-4-success .rectangle-133 {
+  box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 306px;
+  height: 391px;
+}
+.transaction-4-success .payment-successfull {
+  position: relative;
+  margin: 0 0 17px 1.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.transaction-4-success .bxbxs-check-shield {
+  position: relative;
+  width: 209.3px;
+  height: 230.8px;
+}
+.transaction-4-success .bar-bawah {
+  position: relative;
+  margin: 0 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 89px 0 317.3px 0;
+  width: 139px;
+  box-sizing: border-box;
+}
+.transaction-4-success .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.transaction-4-success .back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.transaction-4-success .button-back {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #EC8E8E;
+  position: absolute;
+  left: 50%;
+  bottom: 48px;
+  translate: -50% 0;
+  display: flex;
+  padding: 11px 0 10px 11.9px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.transaction-4-success {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 15px 23px 25px 23px;
+  box-sizing: border-box;
+}
